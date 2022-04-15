@@ -1,0 +1,5 @@
+const mon = "mon"
+const thu = "thu"
+const fri = "fri"
+const sat = "sat"
+const sun = "sun"
